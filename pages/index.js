@@ -50,7 +50,7 @@ const Home = () => {
       justifyContent: "center",
       alignItems: "center"
     }}>
-        <div className={"border rounded bg-light w-25 p-4"} style={{
+        <div className={"border rounded bg-light gp-4"} style={{
             display: "flex",
             flexDirection: "column",
             gap: "10px"
