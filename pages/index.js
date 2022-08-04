@@ -3,7 +3,7 @@ import {useState} from "react";
 import {toast} from "react-toastify";
 import toastConfig from "../config/toast.config";
 import axios from "axios";
-import validator from "validator/es";
+import validator from "validator";
 import {CopyToClipboard} from 'react-copy-to-clipboard';
 
 const Home = () => {
